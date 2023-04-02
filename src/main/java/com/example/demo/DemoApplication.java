@@ -11,6 +11,7 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("하이 썩을");
 		System.out.println("test");
+		System.out.println("안녕");
 
 	}
 
