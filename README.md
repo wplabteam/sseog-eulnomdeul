@@ -1,3 +1,5 @@
+https://opentutorials.org/course/2471/13911
+
 1940년대
 이 시기에 개발된 일부 중요 언어는 다음을 포함한다:
 
