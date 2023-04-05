@@ -2,7 +2,7 @@
 
 1. 개발언어  https://opentutorials.org/course/2471/13911
 2. 메모리구조  https://goodgid.github.io/Memory-Structure/
-3. CPU
+3. CPU  https://learn-news.info/2
 4. 자바(역사)
 5. 스프링
 6. 스프링부트
